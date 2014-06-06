@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nine balls", "Nine balls.vcproj", "{A048D6CC-8C01-4DAC-87AD-DCC54FD38DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A048D6CC-8C01-4DAC-87AD-DCC54FD38DFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A048D6CC-8C01-4DAC-87AD-DCC54FD38DFE}.Debug|Win32.Build.0 = Debug|Win32
+		{A048D6CC-8C01-4DAC-87AD-DCC54FD38DFE}.Release|Win32.ActiveCfg = Release|Win32
+		{A048D6CC-8C01-4DAC-87AD-DCC54FD38DFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
